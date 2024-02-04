@@ -1,2 +1,2 @@
 # hugging_face
-Huggingface projects, including image classification, LLMs,
+Huggingface projects, for SBERAI Contest 2023
